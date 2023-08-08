@@ -5,7 +5,7 @@
 #### Currently pursuing Post Graduation from CUSAT on Computer Science. 
 
 - 🌱 I’m currently learning React, Machine Learning
-- 📫 How to reach me: [Connect with mail](mailto:abijihtk1212@gmail.com)
+- 📫 How to reach me: [mail](mailto:abijihtk1212@gmail.com)
 
 <!--
 ** abijith-tk/abijith-tk ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
