@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 ## I am Abijith
+### Interested in AI/ML. 
 
-#### Currently pursuing Post Graduation from CUSAT on Computer Science. 
+#### Post Graduate in Computer Science with specialization in Data Science, Cochin University of Science and Technology
 
-- 🌱 I’m currently learning React, Machine Learning
+- 🌱 I’m currently learning React, Machine Learning and Django
 - 📫 How to reach me: [mail](mailto:abijihtk1212@gmail.com)
 
 <!--
