@@ -5,8 +5,9 @@
 
 #### Post Graduate in Computer Science with specialization in Data Science, Cochin University of Science and Technology
 
-- 🌱 I’m currently learning React, Machine Learning and Django
+- 🌱 Interested in Machine Learning 
 - 📫 How to reach me: [mail](mailto:abijihtk1212@gmail.com)
+- 👯 I’m looking to collaborate on Machine Learning Projects
 
 <!--
 ** abijith-tk/abijith-tk ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
